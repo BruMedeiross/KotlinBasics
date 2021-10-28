@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Role o Dado</string>
+    <string name="text_roll">Iniciar</string>
+    <string name="calcTeste">Role Novamente </string>
+    <string name="game1">Jogue o Dado</string>
+    <string name="game2">Role o Dado</string>
+    <string name="game3">Limonada</string>
+
+
+    <string name="lemon_select">Click e selecione um limão!</string>
+    <string name="lemon_squeeze">Agora segure para espremer o limão!</string>
+    <string name="lemon_drink">Click para beber a limonada!</string>
+    <string name="lemon_empty_glass">Click para recomeçar!</string>
+    <string name="squeeze_count">Squeeze count: %1$d, keep squeezing!</string>
+</resources>
